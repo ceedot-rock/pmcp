@@ -1,3 +1,7 @@
+> **This repo has moved into the verse.** Development continues at
+> [ceedot-rock/MemoryVerse](https://github.com/ceedot-rock/MemoryVerse), in folder pmcp/.
+> This copy is archived and read-only - history preserved, nothing lost.
+
 # pmcp-core
 
 PmCp (Persistent Memory Core Processing) is an experiment in moving compute
